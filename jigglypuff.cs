@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -7,9 +7,9 @@ using PokemondexN.pokemondex3;
 
 namespace PokemondexN
 {
-    public class Jigglypuff : Pokemon
+    public class Charizard : Pokemon
     {
-        public Jigglypuff() : base("Jigglypuff", "NorMal/Fairy", 0.5, 5.5, 115, 45, 20, 45, 25, 20)
+        public Charizard() : base("Charizard", "Fire/Flying", 5.07, 199.5, 78, 84, 78, 109, 85, 100)
         {
         }
     }
