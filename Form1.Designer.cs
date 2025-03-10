@@ -57,10 +57,10 @@
             // 
             btnEspeon.ForeColor = Color.DeepPink;
             btnEspeon.Location = new Point(40, 103);
-            btnEspeon.Name = "btnEspeon";
+            btnEspeon.Name = "btnBeedrill";
             btnEspeon.Size = new Size(94, 29);
             btnEspeon.TabIndex = 1;
-            btnEspeon.Text = "Espeon";
+            btnEspeon.Text = "Beedrill";
             btnEspeon.UseVisualStyleBackColor = true;
             btnEspeon.Click += btnEspeon_Click;
             // 
@@ -68,10 +68,10 @@
             // 
             bthHatterene.ForeColor = Color.HotPink;
             bthHatterene.Location = new Point(40, 165);
-            bthHatterene.Name = "bthHatterene";
+            bthHatterene.Name = "bthBulbasaur";
             bthHatterene.Size = new Size(94, 29);
             bthHatterene.TabIndex = 2;
-            bthHatterene.Text = "Hatterene";
+            bthHatterene.Text = "Bulbasaur";
             bthHatterene.UseVisualStyleBackColor = true;
             bthHatterene.Click += bthHatterene_Click;
             // 
@@ -79,10 +79,10 @@
             // 
             btnSwirlix.ForeColor = Color.PaleVioletRed;
             btnSwirlix.Location = new Point(40, 233);
-            btnSwirlix.Name = "btnSwirlix";
+            btnSwirlix.Name = "btnButterfee";
             btnSwirlix.Size = new Size(94, 29);
             btnSwirlix.TabIndex = 3;
-            btnSwirlix.Text = "Swirlix";
+            btnSwirlix.Text = "Butterfee";
             btnSwirlix.UseVisualStyleBackColor = true;
             btnSwirlix.Click += btnSwirlix_Click;
             // 
@@ -90,10 +90,10 @@
             // 
             bthJigglypuff.ForeColor = Color.Pink;
             bthJigglypuff.Location = new Point(40, 301);
-            bthJigglypuff.Name = "bthJigglypuff";
+            bthJigglypuff.Name = "bthCharizard";
             bthJigglypuff.Size = new Size(94, 29);
             bthJigglypuff.TabIndex = 4;
-            bthJigglypuff.Text = "Jigglypuff";
+            bthJigglypuff.Text = "Charizard";
             bthJigglypuff.UseVisualStyleBackColor = true;
             bthJigglypuff.Click += bthJigglypuff_Click;
             // 
@@ -101,10 +101,10 @@
             // 
             bthAlcremie.ForeColor = Color.LightPink;
             bthAlcremie.Location = new Point(40, 362);
-            bthAlcremie.Name = "bthAlcremie";
+            bthAlcremie.Name = "bthSquirtle";
             bthAlcremie.Size = new Size(94, 29);
             bthAlcremie.TabIndex = 5;
-            bthAlcremie.Text = "Alcremie";
+            bthAlcremie.Text = "Squirtle";
             bthAlcremie.UseVisualStyleBackColor = true;
             bthAlcremie.Click += bthAlcremie_Click;
             // 
