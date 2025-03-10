@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -7,9 +7,9 @@ using PokemondexN.pokemondex3;
 
 namespace PokemondexN
 {
-    public class Swirlix : Pokemon
+    public class Butterfee : Pokemon
     {
-        public Swirlix() : base("Swirlix", "Fairy", 0.4, 3.5, 62, 48, 66, 59, 57, 49)
+        public Butterfee() : base("Butterfee", "Bug/Flying", 3.07, 70.5, 60, 45, 50, 90, 80, 70)
         {
         }
     }
