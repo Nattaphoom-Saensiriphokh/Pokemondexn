@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -7,9 +7,9 @@ using PokemondexN.pokemondex3;
 
 namespace PokemondexN
 {
-    public class Hatterene : Pokemon
+    public class Bulbasaur : Pokemon
     {
-        public Hatterene() : base("Hatterene", "Fairy", 2.1, 5.1, 57, 90, 95, 136, 103, 29)
+        public Bulbasaur() : base("Bulbasaur", "Grass & Poison", 2.04, 15.2, 45, 49, 49, 65, 65, 45)
         {
         }
     }
