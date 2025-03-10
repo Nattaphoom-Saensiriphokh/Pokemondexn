@@ -24,7 +24,7 @@ namespace PokemondexN
                     $"Special Defense : {pokemon.SpecialDefense}\nSpeed : {pokemon.Speed}\n" +
                     $"Total : {pokemon.Total}";
 
-                // ��Ŵ�ٻ�ҡ������ Images/
+                // âËÅ´ÃÙ»¨Ò¡â¿Åà´ÍÃì Images/
                 string imagePath = $"Images/{pokemon.Name}.jpg";
                 if (System.IO.File.Exists(imagePath))
                 {
@@ -33,7 +33,7 @@ namespace PokemondexN
                 else
                 {
                     pictureBox1.Image = null;
-                    MessageBox.Show($"��辺�ٻ�Ҿ��� {imagePath}");  // Debug message
+                    MessageBox.Show($"äÁè¾ºÃÙ»ÀÒ¾·Õè {imagePath}");  // Debug message
                 }
             }
 
@@ -46,27 +46,27 @@ namespace PokemondexN
 
         private void btnEspeon_Click(object sender, EventArgs e)
         {
-            ShowPokemon("Espeon");
+            ShowPokemon("Beedrill");
         }
 
         private void bthHatterene_Click(object sender, EventArgs e)
         {
-            ShowPokemon("Hatterene");
+            ShowPokemon("Bulbasaur");
         }
 
         private void btnSwirlix_Click(object sender, EventArgs e)
         {
-            ShowPokemon("Swirlix");
+            ShowPokemon("Butterfee");
         }
 
         private void bthJigglypuff_Click(object sender, EventArgs e)
         {
-            ShowPokemon("Jigglypuff");
+            ShowPokemon("Charizard");
         }
 
         private void bthAlcremie_Click(object sender, EventArgs e)
         {
-            ShowPokemon("Alcremie");
+            ShowPokemon("Squirtle");
         }
     }
 
