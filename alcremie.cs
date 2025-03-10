@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -7,9 +7,9 @@ using PokemondexN.pokemondex3;
 
 namespace PokemondexN
 {
-    public class Alcremie : Pokemon
+    public class Squirtle : Pokemon
     {
-        public Alcremie() : base("Alcremie", "Fairy", 0.3, 0.5, 65, 60, 75, 110, 121, 64)
+        public Squirtle() : base("Squirtle", "Water", 1.08, 19.8, 44, 48, 65, 50, 64, 43)
         {
         }
     }
