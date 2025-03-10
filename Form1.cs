@@ -44,27 +44,27 @@ namespace PokemondexN
             ShowPokemon("Pikachu");
         }
 
-        private void btnEspeon_Click(object sender, EventArgs e)
+        private void btnBeedrill_Click(object sender, EventArgs e)
         {
             ShowPokemon("Beedrill");
         }
 
-        private void bthHatterene_Click(object sender, EventArgs e)
+        private void bthBulbasaur_Click(object sender, EventArgs e)
         {
             ShowPokemon("Bulbasaur");
         }
 
-        private void btnSwirlix_Click(object sender, EventArgs e)
+        private void btnButterfee_Click(object sender, EventArgs e)
         {
             ShowPokemon("Butterfee");
         }
 
-        private void bthJigglypuff_Click(object sender, EventArgs e)
+        private void bthCharizard_Click(object sender, EventArgs e)
         {
             ShowPokemon("Charizard");
         }
 
-        private void bthAlcremie_Click(object sender, EventArgs e)
+        private void bthSquirtle_Click(object sender, EventArgs e)
         {
             ShowPokemon("Squirtle");
         }
